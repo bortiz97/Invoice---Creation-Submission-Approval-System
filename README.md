@@ -19,3 +19,12 @@ Draft → Submitted → Under Review → Approved / Rejected
 
 ## Project Scope
 The system will allow users to create invoices, submit them for review, track their status, and record approval or rejection decisions.
+## Project Documentation
+
+Additional project documentation is available in the `docs` folder:
+
+- [Project Proposal](docs/proposal.md)
+- [System Requirements](docs/requirements.md)
+- [Business Rules and Invoice States](docs/business-rules.md)
+- [Project Scope](docs/scope.md)
+- [Project Charter](docs/team-charter.md)
